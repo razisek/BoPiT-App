@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165338116429",
+    "project_id": "responsimikro",
+    "storage_bucket": "responsimikro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165338116429:android:822dee9ebf7775618d8704",
+        "android_client_info": {
+          "package_name": "com.responsiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165338116429-8h48ot1esll0pl1591hler65nj1c0gqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxKozTjO4GpBUL4w-86ekw8LrEFvxVbH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165338116429-8h48ot1esll0pl1591hler65nj1c0gqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
